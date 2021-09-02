@@ -1,6 +1,6 @@
 **Appendix 3 - Full list**
 
-*By Uzair Shah, Hazrat Ali, and Zubair Shah*
+*By Uzair Shah, Hazrat Ali, Tanvir Alam, Mowafa Hoseh and Zubair Shah*
 
 [1]   Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, Bray F. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021 May;71(3):209-249. doi: 10.3322/caac.21660. Epub 2021 Feb 4. PMID: 33538338.
 
